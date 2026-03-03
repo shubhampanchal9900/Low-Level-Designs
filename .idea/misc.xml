@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/Logger system/pom.xml" />
         <option value="$PROJECT_DIR$/Logger/pom.xml" />
+        <option value="$PROJECT_DIR$/RateLimiter/pom.xml" />
+        <option value="$PROJECT_DIR$/BookMyShow/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
